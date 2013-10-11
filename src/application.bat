@@ -1,4 +1,6 @@
- ### Application.bash - 201x - Romain ###
-echo "Copyright Company - 2013"
-echo "Build : 10:00"
-echo "version 1.1"
+### Application.bash - 201x - votre nom ###
+version = "2"
+build_hour = "11H00"
+
+echo "Build ${build_hour}"
+echo "version ${version}"
